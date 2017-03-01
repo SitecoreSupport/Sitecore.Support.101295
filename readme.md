@@ -1,5 +1,5 @@
 # Sitecore.Support.101295
-Prevents from trimming a value in the `Multi-Line Text` field when saving it in Experience Editor
+Prevents from trimming a value in the `Multi-Line Text` field when saving it in `Experience Editor`
 
 ## Description
 This patch prevents from trimming a value in the `Multi-Line Text` field when saving it in Experience Editor
